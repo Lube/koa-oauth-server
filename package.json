@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/thomseddon/koa-oauth-server"
+    "url": "git://github.com/Lube/koa-oauth-server"
   },
   "keywords": [
     "koa",
@@ -17,13 +17,13 @@
     "oauth2"
   ],
   "author": {
-    "name": "Thom Seddon",
-    "email": "thom@nightworld.com"
+    "name": "Seba Luberriaga",
+    "email": "sebastianlube@gmail.com"
   },
   "license": "MIT",
   "dependencies": {
     "co": "^4.5.1",
-    "oauth2-server": "git@github.com:pschwyter/node-oauth2-server#enhancement/refactor-project"
+    "oauth2-server": "^3.0.0"
   },
   "devDependencies": {
     "co-mocha": "^1.1.0",
